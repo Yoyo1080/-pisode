@@ -11,7 +11,7 @@
     "moduleLenguage": "Fr",
     "moduleType": "Video",
     "nsfw": false,
-    "baseURL": "https://fs-dns2.site/",
+    "baseURL": "https://web.french-stream.bio/",
     "moduleDeveloperSite": "https://bilnaa.github.io/main",
     "UpdateSite": "https://raw.githubusercontent.com/Bilnaa/bilnaa.github.io/main/FrenchStream/FrenchStream.json",
     "preferedServer": "FEMBED",
@@ -35,7 +35,7 @@
   "mainPage": [
     {
       "request": {
-        "url": "https://fs-dns2.site/",
+        "url": "https://web.french-stream.bio/",
         "method": "get",
         "headers": [
           {
@@ -148,7 +148,7 @@
   "search": [
     {
       "request": {
-        "url": "https://fs-dns2.site/index.php/search/?story=<searched>&do=search&search_start=<page>&subaction=search&submit=Submit/",
+        "url": "https://web.french-stream.bio/index.php/search/?story=<searched>&do=search&search_start=<page>&subaction=search&submit=Submit/",
         "method": "get",
         "headers": [
           {

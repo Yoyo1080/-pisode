@@ -3,10 +3,10 @@
     "moduleName": "French-Stream",
     "moduleInitials": "FS",
     "moduleDesc": "Module Ketsu pour French-Stream, changer le resolver pour changer la langue des films",
-    "developer": "Frizrat",
+    "developer": "ナビル",
     "moduleID": "12131121",
     "moduleImage": "https://i.postimg.cc/gkyWt2kQ/fstream-logo.png",
-    "moduleVersion": 1.21,
+    "moduleVersion": 2.81,
     "changelog": "Réparation complète",
     "moduleLenguage": "Fr",
     "moduleType": "Video",
@@ -14,8 +14,8 @@
     "baseURL": "https://fs-dns2.site/",
     "moduleDeveloperSite": "https://bilnaa.github.io/main",
     "UpdateSite": "https://raw.githubusercontent.com/Bilnaa/bilnaa.github.io/main/FrenchStream/FrenchStream.json",
-    "preferedServer": "",
-    "preferedDownloadServer": "",
+    "preferedServer": "FEMBED",
+    "preferedDownloadServer": "FEMBED",
     "blackListed": [ "" ]
   },
   "global": {
@@ -148,7 +148,7 @@
   "search": [
     {
       "request": {
-        "url": "https://frenchstream.one/index.php/search/?story=<searched>&do=search&search_start=<page>&subaction=search&submit=Submit/",
+        "url": "https://fs-dns2.site/index.php/search/?story=<searched>&do=search&search_start=<page>&subaction=search&submit=Submit/",
         "method": "get",
         "headers": [
           {
